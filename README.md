@@ -8,7 +8,7 @@ The Present Store is an online platform dedicated to offering a delightful selec
 
 ## About the Developer
 
-This project was developed by [Hadassa Sabag](https://github.com/YourGitHubUsername).
+This project was developed by [Hadassa Sabag](https://github.com/hadassasabag).
 
 ## Technologies Used
 
@@ -59,4 +59,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Hadassa Sabag - [hadassa313@gmail.com](mailto:hadassa313@gmail.com)
 
-Project Link: [[https://github.com/YourGitHubUsername/Present-Store](https://github.com/HadassaSabag/Present-Store)](https://github.com/HadassaSabag/Present-Store)
+Project Link: [[https://github.com/YourGitHubUsername/Present-Store](https://github.com/HadassaSabag/Present-Store)]
