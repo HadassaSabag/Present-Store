@@ -57,6 +57,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Hadassa Savag - [YourEmailAddress@example.com](mailto:YourEmailAddress@example.com)
+Hadassa Sabag - [hadassa313@gmail.com](mailto:hadassa313@gmail.com)
 
 Project Link: [https://github.com/YourGitHubUsername/Present-Store](https://github.com/YourGitHubUsername/Present-Store)
