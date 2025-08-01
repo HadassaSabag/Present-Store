@@ -45,4 +45,3 @@ Special thanks to the developers of the libraries and frameworks used in this pr
 
 Hadassa Sabag - [hadassa313@gmail.com](mailto:hadassa313@gmail.com)
 
-Project Link: [[https://github.com/YourGitHubUsername/Present-Store](https://github.com/HadassaSabag/Present-Store)]
